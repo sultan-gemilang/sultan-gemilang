@@ -2,7 +2,7 @@
 
 Vibin to music while suffering with code bugs and slow internet
 
-![tannhausser](https://media1.tenor.com/m/UywT899q0EUAAAAd/uma-musume-matikane-tannhauser.gif)
+![tannhausser](https://media1.tenor.com/m/0Y9Iu6txs8MAAAAC/machikane-tannhauser-matikane-tannhauser.gif)
 
 <!--
 **sultan-gemilang/sultan-gemilang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
