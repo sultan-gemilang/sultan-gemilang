@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+:D
+
+![teio](https://media1.tenor.com/m/D7ENumqRECcAAAAC/%E3%82%A6%E3%83%9E%E5%A8%98-umamusume.gif)
+
 <!--
 **sultan-gemilang/sultan-gemilang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
