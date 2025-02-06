@@ -2,7 +2,7 @@
 
 Vibin to music while suffering with code bugs and slow internet
 
-## Tannhausser :D
+## Mambon omatsuri mambon :D
 ![tannhausser](https://media1.tenor.com/m/0Y9Iu6txs8MAAAAC/machikane-tannhauser-matikane-tannhauser.gif)
 
 <!--
